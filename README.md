@@ -1,2 +1,2 @@
 # design-portfolio
-This is my design portfolio showcasing my projects from 2020 to 2023.
+I am Adriana Ng and this design portfolio showcases my projects from 2020 to 2023.
